@@ -14,11 +14,11 @@ I am no developer myself and I have no relationship with [Deezer](https://www.de
 
 Before using Spleeter, you will have to install Git and Conda. You will only have to install these once. If you are not familiar with running Terminal commands, don't worry, you just need to copy/paste and hit enter.
 
-It might be unfamiliar, but there's nothing here that can break your computer. 
+It might be unfamiliar, but there's nothing here that can break your computer. If you panic, simply close Terminal, open it again and pick up things from the last step.
 
 ### Installing Git
 
-1. Check if you have Git installed by opening Terminal and running `git --version`. You simply have to type the command and hit Enter. If you already have git installed, it will return what version you have. Any version will work, but most likely you won't have it installed. If you do, you can jump to the and start Installing Miniconda 2.
+1. Check if you have Git installed by opening Terminal and running `git --version`. You simply have to type the command and hit Enter. If you already have git installed, it will return what version you have. Any version will work, but most likely you won't have it installed. If you do, you can jump to the next section and start Installing Miniconda 2.
 
     ![](img/Untitled-203839d5-5a95-410d-8679-5516288a2ed5.png)
 
