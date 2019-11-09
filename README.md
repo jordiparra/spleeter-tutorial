@@ -8,7 +8,7 @@ Spleeter is an amazing open-source library by Deezer that separates vocal and mu
 
 I am no developer myself and I have no relationship with [Deezer](https://www.deezer.com/) nor [Spleeter](https://github.com/deezer/spleeter). There might be mistakes, but as a synth aficionado, I thought it'd be useful to put this tutorial together for non technical folks like me who would like to use it to make cool remixes. 🎉
 
-🐦You can follow me on twitter.
+🐦 You can [follow me on twitter](https://twitter.com/zenona/).
 
 ---
 
