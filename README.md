@@ -4,11 +4,13 @@
 
 This is a rookie step by step guide to use [Spleeter](https://github.com/deezer/spleeter) on your Mac.
 
-Spleeter is an amazing open-source library by Deezer that separates vocal and music of any given song.
+Spleeter is an amazing open-source library developed by [Deezer](https://www.deezer.com/) that separates vocal and music into separate .wav files of any given song you provide.
 
 I am no developer myself and I have no relationship with [Deezer](https://www.deezer.com/) nor [Spleeter](https://github.com/deezer/spleeter). There might be mistakes, but as a synth aficionado, I thought it'd be useful to put this tutorial together for non technical folks like me who would like to use it to make cool remixes. 🎉
 
-🐦 If you like it, you can also [follow me on twitter](https://twitter.com/zenona/).
+These were the steps I followed, and I was able to make it work.
+
+🐦 If you like, you can also [follow me on twitter](https://twitter.com/zenona/).
 
 ## Requirements
 
