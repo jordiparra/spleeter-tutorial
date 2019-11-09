@@ -54,11 +54,11 @@ It might be unfamiliar, but there's nothing here that can break your computer.
 
     To open a folder you simply have to run `cd foldername`. Going up a folder is `cd ..`
 
-2. Being insite the `/Other` folder, run `git clone [https://github.com/Deezer/spleeter](https://github.com/Deezer/spleeter)` and hit Enter. This will download Spleeter from GitHub.
+2. Make sure you are in the `/Other` folder in Terminal and run `git clone https://github.com/Deezer/spleeter`. This will download Spleeter from GitHub. This step might take a few seconds.
 
     ![](img/Untitled-68d0790e-93bf-4fb7-80c8-79b7d9dc383d.png)
 
-3. This might take a few seconds, but once the previous step is completes, you'd see the both the `/spleeter` and `/miniconda2` folders inside the `/Other` folder you created on Finder.
+3. You should now see the both the `/spleeter` and `/miniconda2` folders inside the `/Other` folder you created on Finder.
 
     ![](img/Untitled-ab01d1d4-bb37-41bb-af0c-566e441b5ef8.png)
 
