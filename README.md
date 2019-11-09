@@ -10,8 +10,6 @@ I am no developer myself and I have no relationship with [Deezer](https://www.de
 
 🐦 If you like it, you can also [follow me on twitter](https://twitter.com/zenona/).
 
----
-
 ## Requirements
 
 Before using Spleeter, you will have to install Git and Conda. You will only have to install these once. If you are not familiar with running Terminal commands, don't worry, you just need to copy/paste and hit enter.
@@ -74,8 +72,6 @@ Spleeter relies on Conda, a data analyzing tool. For it to work, you have to cre
 4. To create a Conda environment you just need to run `conda env create -f spleeter/conda/spleeter-cpu.yaml` . Spleeter might take some time to downloading everything it needs. Just let it do its thing. Once it finishes, it should look similar to this:
 
     ![](img/Untitled-4c100951-08e5-4fe7-aa91-816aa7b8c016.png)
-
----
 
 ## Using Spleeter
 
