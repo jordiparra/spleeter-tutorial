@@ -1,8 +1,6 @@
 # Spleeter 101 Tutorial
 
----
-
-# About
+## About
 
 This is a rookie step by step guide to use [Spleeter](https://github.com/deezer/spleeter) on your Mac.
 
@@ -14,13 +12,13 @@ I am no developer myself and I have no relationship with [Deezer](https://www.de
 
 ---
 
-# Requirements
+## Requirements
 
 Before using Spleeter, you will have to install Git and Conda. You will only have to install these once. If you are not familiar with running Terminal commands, don't worry, you just need to copy/paste and hit enter.
 
 It might be unfamiliar, but there's nothing here that can break your computer. 
 
-## Installing Git
+### Installing Git
 
 1. Check if you have Git installed by opening Terminal and running `git --version`. You simply have to type the command and hit Enter. If you already have git installed, it will return what version you have. Any version will work, but most likely you won't have it installed. If you do, you can jump to the and start Installing Miniconda 2.
 
@@ -30,7 +28,7 @@ It might be unfamiliar, but there's nothing here that can break your computer.
 3. After completing the installation, quit Terminal and open it again.
 4. Run `git --version` and hit Enter. This time you should see that Git is installed. 🎉
 
-## Installing Miniconda 2
+### Installing Miniconda 2
 
 1. [Download Miniconda2 MacOSX 64-bit pkg](https://docs.conda.io/en/latest/miniconda.html).
 
@@ -50,7 +48,7 @@ It might be unfamiliar, but there's nothing here that can break your computer.
 7. When running the previous step, you might also be asked to run `conda init zsh`
 8. After this, you're done with Miniconda. 🎉
 
-## Installing Spleeter
+### Installing Spleeter
 
 1. In Terminal, go inside the Other folder you created by rentering  `cd Other` and hiting Enter. You will notice that the header of the Terminal window shows what folder you are at. Make sure you are inside the `/Other` folder you created earlier.
 
@@ -66,7 +64,7 @@ It might be unfamiliar, but there's nothing here that can break your computer.
 
     ![](img/Untitled-ab01d1d4-bb37-41bb-af0c-566e441b5ef8.png)
 
-# Creating a Conda environment for Spleeter
+### Creating a Conda environment for Spleeter
 
 Spleeter relies on Conda, a data analyzing tool. For it to work, you have to create an environment for Spleeter to work. You will only have to do this once.
 
@@ -79,7 +77,7 @@ Spleeter relies on Conda, a data analyzing tool. For it to work, you have to cre
 
 ---
 
-# Using Spleeter
+## Using Spleeter
 
 1. Create a `/mp3` folder inside the `/Other` folder you created earlier.
 2. Place the .mp3 of the song you want to get separate vocal and music tracks into a folder named `/mp3`. In this example, the mp3 file to split is named `original.mp3`
